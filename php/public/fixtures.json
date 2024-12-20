@@ -1,0 +1,72 @@
+[
+    {
+        "product_name": "quo nulla",
+        "price": 4.13,
+        "category": "ea",
+        "stock": 66,
+        "description": "Commodi natus qui excepturi maiores possimus quis."
+    },
+    {
+        "product_name": "provident consectetur",
+        "price": 73.83,
+        "category": "sapiente",
+        "stock": 86,
+        "description": "Quo facilis et labore explicabo quia pariatur reprehenderit velit enim."
+    },
+    {
+        "product_name": "voluptatum commodi",
+        "price": 30.11,
+        "category": "commodi",
+        "stock": 80,
+        "description": "Dolores deleniti velit sint itaque dolore earum sit blanditiis eligendi et accusamus."
+    },
+    {
+        "product_name": "magni quam",
+        "price": 57.88,
+        "category": "nihil",
+        "stock": 25,
+        "description": "Fuga iure eligendi sint iste fugiat recusandae et aut voluptates eius distinctio aspernatur."
+    },
+    {
+        "product_name": "ea sed",
+        "price": 85.92,
+        "category": "eum",
+        "stock": 44,
+        "description": "Distinctio non enim odit ea temporibus porro asperiores culpa."
+    },
+    {
+        "product_name": "quidem rerum",
+        "price": 76.1,
+        "category": "sed",
+        "stock": 72,
+        "description": "Qui vel aliquam voluptatibus ut officia omnis soluta occaecati voluptas autem."
+    },
+    {
+        "product_name": "voluptas est",
+        "price": 70.55,
+        "category": "alias",
+        "stock": 0,
+        "description": "Itaque praesentium quae ullam repellat enim omnis et labore."
+    },
+    {
+        "product_name": "nulla rerum",
+        "price": 7.2,
+        "category": "impedit",
+        "stock": 59,
+        "description": "Quod illo voluptate tenetur quisquam aut nostrum cumque dicta eligendi nesciunt officia eius."
+    },
+    {
+        "product_name": "magni quam",
+        "price": 32.93,
+        "category": "suscipit",
+        "stock": 13,
+        "description": "Ipsum possimus est eum nihil aliquid et error vitae voluptas."
+    },
+    {
+        "product_name": "maiores autem",
+        "price": 82.49,
+        "category": "nemo",
+        "stock": 38,
+        "description": "Iusto ut et esse doloremque vero rerum magnam quam asperiores."
+    }
+]
